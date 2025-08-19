@@ -121,8 +121,16 @@ npm run dev
 ## Support
 
 If you encounter issues or have suggestions:
-- Check the [GitHub Issues](https://github.com/username/new-heading-shortcut/issues) page
+- Check the [GitHub Issues](https://github.com/baarbeh/new-heading-shortcut/issues) page
 - Create a new issue with detailed information about your problem
+
+### ☕ Buy Me a Coffee
+
+If this plugin helps improve your workflow, consider supporting its development:
+
+<a href="https://www.buymeacoffee.com/baarbeh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Your support helps maintain and improve this plugin!
 
 ## License
 
