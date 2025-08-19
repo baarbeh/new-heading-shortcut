@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Quickly add contextual headers at sibling, child, or parent levels based on the most recent header in your document.",
-	"author": "Jeremiah Baarbé",
+	"author": "baarbeh",
 	"authorUrl": "https://github.com/baarbeh",
 	"fundingUrl": "",
 	"isDesktopOnly": false

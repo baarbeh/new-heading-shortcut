@@ -15,7 +15,7 @@
 		"markdown",
 		"productivity"
 	],
-	"author": "Jeremiah Baarbé",
+	"author": "baarbeh",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",

@@ -18,4 +18,7 @@ package-lock.json
 Thumbs.db
 
 # Claude Code files
-CLAUDE.md 
+CLAUDE.md
+
+# Private documentation
+OBSIDIAN_SUBMISSION_GUIDE.md 
