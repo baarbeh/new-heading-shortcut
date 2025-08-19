@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+main.js.map
+lib/
+
+# Development files
+.DS_Store
+.vscode/
+*.log
+
+# npm
+npm-debug.log*
+package-lock.json
+
+# OS generated files
+Thumbs.db
+
+# Claude Code files
+CLAUDE.md 
